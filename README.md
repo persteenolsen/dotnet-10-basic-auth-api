@@ -4,7 +4,7 @@
 
 # Last updated
 
-- 19-01-2026
+- 20-01-2026
 
 # Creates a global json
 
@@ -12,7 +12,7 @@ dotnet new globaljson --sdk-version 10.0.100 --force
 
 # Try the React 19 frontend for testing the Web API
 
-- [`The Vue 3 Client at GitHub`](https://github.com/persteenolsen/react-basic-auth-client) - The React using HTTP Basic Authentication
+- [`The React Client at GitHub`](https://github.com/persteenolsen/react-basic-auth-client) - The React client using HTTP Basic Authentication
 
 # Functionality of the Web App
 
