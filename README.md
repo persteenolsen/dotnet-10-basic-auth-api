@@ -10,9 +10,13 @@
 
 dotnet new globaljson --sdk-version 10.0.100 --force
 
+# Try the React 19 frontend for testing the Web API
+
+- [`The Vue 3 Client at GitHub`](https://github.com/persteenolsen/react-basic-auth-client) - The React using HTTP Basic Authentication
+
 # Functionality of the Web App
 
-- BASIC HTTP authentication
+- HTTP Basic authentication
 
 # Tech used for creating the Web App
 
